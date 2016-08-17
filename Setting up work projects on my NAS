@@ -5,7 +5,13 @@
 2) Install debian-chroot from synocommunity packages: 
 https://markpith.wordpress.com/2015/10/26/debian-chroot-on-synology-nas/
 
-3) Install Cloud Station for Dropbox functionality on home dir
+3) Install Cloud Station for Dropbox functionality on home dir (on the NAS)
+
+4) Install Cloud Station Client for Ubuntu on the debian-chroot
+
+5) Install Cloud9 IDE (install-sdk.sh may take hours)
+
+6) Download ARM build of `pgweb` and put in /usr/local/bin
 
 TODO: 
 1) need to start chroot manually
