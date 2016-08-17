@@ -1,9 +1,11 @@
 # how-i-did
 
-1) add user in DSM control panel
+1) add user in DSM control panel so that home directory etc is mapped
 
 2) Install debian-chroot from synocommunity packages: 
 https://markpith.wordpress.com/2015/10/26/debian-chroot-on-synology-nas/
+
+3) Install Cloud Station for Dropbox functionality on home dir
 
 TODO: 
 1) need to start chroot manually
